@@ -1,2 +1,2 @@
 # html-store-gaming-template
-html-store-gaming-template
+<img src="1.png">
